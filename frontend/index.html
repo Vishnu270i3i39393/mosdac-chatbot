@@ -67,6 +67,10 @@
       background: #eee;
       align-self: flex-start;
     }
+    .loading {
+      font-style: italic;
+      color: #666;
+    }
   </style>
 </head>
 <body>
@@ -96,16 +100,25 @@
       addMessage(message, "user");
       userInput.value = "";
 
+      // show a loading message
+      const loadingMsg = addMessage("Thinking...", "bot");
+      loadingMsg.classList.add("loading");
+
       try {
         const res = await fetch("https://mosdac-backend.onrender.com/chat", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message }),
         });
+
+        if (!res.ok) throw new Error("Server error");
+
         const data = await res.json();
-        addMessage(data.answer, "bot");
+        loadingMsg.textContent = data.answer;
+        loadingMsg.classList.remove("loading");
       } catch (err) {
-        addMessage("Error contacting server.", "bot");
+        loadingMsg.textContent = "Error contacting server. Please try again.";
+        loadingMsg.classList.remove("loading");
       }
     }
 
@@ -115,6 +128,7 @@
       msg.textContent = text;
       chat.appendChild(msg);
       chat.scrollTop = chat.scrollHeight;
+      return msg;
     }
   </script>
 </body>
