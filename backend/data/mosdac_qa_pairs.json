@@ -1,0 +1,866 @@
+[
+  {
+    "question": "What is the main content of this article?",
+    "answer": "The main content of this article is a detailed description of various weather and ocean forecasting systems, including a 3-hourly weather forecast for India, cyclone observation and prediction over the Indian Ocean, heat wave prediction using WRF Model, heavy rain forecast using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast, solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States and South East Asian Countries, solar energy, rainfall, air quality, soil wetness index, cyclone observation and prediction over IO, altimeter LCS-CORES and stretching directions, ocean subsurface fields, RIP current forecast for all-India beaches, ocean state forecast, eddy currents, and this website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the name of the website where these weather and ocean forecasting systems are available?",
+    "answer": "The name of the website where these weather and ocean forecasting systems are available is MOSDAC, Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "What kind of alerts can be expected from this website for Indian States?",
+    "answer": "Alerts for Indian States that can be expected from this website include heavy rain events, solar energy, rainfall, air quality, and soil wetness index."
+  },
+  {
+    "question": "What is the main content of this page?",
+    "answer": "The main content of this page is a 3-hourly weather forecast, including cold wave prediction over India (using WRF Model), based cyclone observation and realtime prediction over IO, heat wave prediction over India (also using WRF Model), heavy rain forecast (using NWP model), lightning forecast, monsoon prediction for 2024, sea state forecast, 3 days solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States and South East Asian Countries, solar energy, rainfall, air quality, soil wetness index, satellite-based cyclone observation and realtime prediction over IO, altimeter LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, rip current forecast for all-India beaches, ocean state forecast, eddy currents, and this website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What can I find on this page for the weather forecast?",
+    "answer": "On this page, you can find a detailed 3-hourly weather forecast including cold wave prediction over India (using WRF Model), based cyclone observation and realtime prediction over IO, heat wave prediction over India (also using WRF Model), heavy rain forecast (using NWP model), lightning forecast, monsoon prediction for 2024, and cloud burst nowcast for 6 hours over Western Himalayan region."
+  },
+  {
+    "question": "What kind of alerts are available on this website?",
+    "answer": "On this website, you can find alerts for Indian States and South East Asian Countries for solar energy, rainfall, air quality, soil wetness index, and heavy rain events."
+  },
+  {
+    "question": "What is the main purpose of INSAT-3DR satellite?",
+    "answer": "The main objective for INSAT-3DR is to provide an operational, environmental, and storm warning system, primarily to protect life and property. It monitors the earth’s surface, oceanic observations, and also provides data dissemination capabilities."
+  },
+  {
+    "question": "Where is INSAT-3DR positioned?",
+    "answer": "INSAT-3DR is positioned at 740 East Longitude."
+  },
+  {
+    "question": "How can data from INSAT-3DR be accessed?",
+    "answer": "The data acquisition and processing system for INSAT-3DR is established at the Space Applications Centre, Bopal Campus, Ahmedabad, India. The processed data can be obtained through the website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is INSAT and who launched it?",
+    "answer": "INSAT, or the Indian National Satellite System, is a series of multipurpose Geo-stationary satellites launched by ISRO (Indian Space Research Organisation)."
+  },
+  {
+    "question": "What are the main objectives of the INSAT-3D mission?",
+    "answer": "The main objectives for the INSAT-3D mission are to provide an operational, environmental and storm warning system to protect life and property."
+  },
+  {
+    "question": "Where is the processing of INSAT-3D data taking place and who owns the related website?",
+    "answer": "The processing of INSAT-3D data takes place at the Space Applications Centre, Bopal Campus, Ahmedabad, India. The website owned and maintained by MOSDAC (Monitoring of Satellite Data and Communication Services), a department under Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is Metsat and what makes it exclusive?",
+    "answer": "Metsat is an exclusive meteorological satellite developed by ISRO (Indian Space Research Organisation). It stands out due to its geo-synchronous orbit and its lightweight structure made of carbon fiber re-enforced plastic."
+  },
+  {
+    "question": "What are the key features of Metsat's power system?",
+    "answer": "Metsat's power system includes an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts of power."
+  },
+  {
+    "question": "What kind of instruments does Metsat carry onboard and what are their functions?",
+    "answer": "Metsat carries two instruments: a Very High Resolution Radiometer (VHRR) and a Data Relay Transponder (DRT). The VHRR provides earth imagery in visible, thermal infrared, and water vapor bands with different resolutions. The DRT collects weather data from un-attended data collection platforms throughout India and transmits the data to a centrally located Meteorological Data Utilisation Centre."
+  },
+  {
+    "question": "What is INSAT-3A and what services does it provide?",
+    "answer": "INSAT-3A is a multipurpose satellite that provides telecommunications, television broadcasting, meteorological, and search & rescue services."
+  },
+  {
+    "question": "How many transponders does INSAT-3A carry and in what frequency bands?",
+    "answer": "INSAT-3A carries twenty four transponders - twelve operating in the normal C-band frequency, six in Extended C-band, and six in Ku-band."
+  },
+  {
+    "question": "What kind of meteorological observation equipment does INSAT-3A have?",
+    "answer": "INSAT-3A carries a three channel Very High Resolution Radiometer (VHRR) with 2 km resolution in the visible band and 8 km resolution in thermal infrared and water vapour bands. It also has a Charge Coupled Device (CCD) camera operating in the visible and short wave infrared bands, providing a spatial resolution of 1 km."
+  },
+  {
+    "question": "What is the purpose of the Megha-Tropiques satellite mission?",
+    "answer": "The Megha-Tropiques satellite mission aims to study the water cycle and energy exchanges in the tropics, focusing on understanding the life cycle of convective systems that influence tropical weather and climate. It also seeks to analyze the role of these systems in the associated energy and moisture budget of the atmosphere in tropical regions."
+  },
+  {
+    "question": "What type of data does Megha-Tropiques provide?",
+    "answer": "Megha-Tropiques provides scientific data on various aspects related to water in the tropics, including condensed water in clouds, water vapor in the atmosphere, precipitation, and evaporation."
+  },
+  {
+    "question": "Why is Megha-Tropiques considered unique for climate research?",
+    "answer": "Megha-Tropiques stands out as a unique satellite for climate research due to its circular orbit inclined 20 degrees to the equator. This allows it to aid scientists in refining prediction models, and it has day, night, and all-weather viewing capabilities, enabling almost real-time assessments of cloud evolution."
+  },
+  {
+    "question": "What is the purpose of the SARAL/AltiKa mission?",
+    "answer": "The SARAL/AltiKa mission's aim is to provide altimetric measurements designed to study ocean circulation and sea surface elevation with the same accuracy as the one provided by ENVISAT mission, complementing the Jasons mission."
+  },
+  {
+    "question": "What frequency does the AltiKa altimeter use?",
+    "answer": "The AltiKa altimeter uses a Ka-band frequency (35.75 GHz, 500MHz), making it the first oceanographic altimeter to use such a high frequency."
+  },
+  {
+    "question": "What are the benefits of using a Ka-band frequency in an altimeter?",
+    "answer": "Using the Ka-band frequency will supply more accurate measurements (improvement of the spatial and vertical resolution), enabling a better observation of ices, coastal areas, continental water bodies as well as the waves height. However, it is sensitive to rain that can lead to signal attenuation."
+  },
+  {
+    "question": "What is the heritage of the Oceansat-2 satellite mainframe systems?",
+    "answer": "The Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions."
+  },
+  {
+    "question": "When and where was the Oceansat-2 satellite launched?",
+    "answer": "Oceansat-2 was launched on Sept. 23, 2009, by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota."
+  },
+  {
+    "question": "What are the payloads carried by Oceansat-2?",
+    "answer": "Oceansat-2 carries three payloads: Ocean Colour Monitor (OCM), a Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO, and Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency."
+  },
+  {
+    "question": "What is EOS-06(Oceansat-3) and when was it launched?",
+    "answer": "EOS-06(Oceansat-3) is an Earth Observing Satellite, launched on 26 November 2022 from the Satish Dhawan Space Centre, Sriharikota."
+  },
+  {
+    "question": "What instruments does EOS-06(Oceansat-3) carry and what data do they collect?",
+    "answer": "EOS-06(Oceansat-3) carries three main instruments: (i) 13-band advanced Ocean Colour Monitor (OCM-3), which measures ocean color to provide information about the ocean's biology and optics; (ii) Ku-band Scatterometer (SCAT-3), which measures wind speed over the ocean surface; and (iii) a 2-channel Sea Surface Temperature Monitor. ARGOS, provided by the French Space Agency (CNES), serves as a data collection platform from various ocean-based platforms."
+  },
+  {
+    "question": "What is the purpose of EOS-06(Oceansat-3) and how does it continue previous missions?",
+    "answer": "EOS-06(Oceansat-3) is intended to provide continuity of operational services of Oceansat-1, 2, and SCATSAT-1 Mission with enhanced application potential. It aims to simultaneously measure physical, biological, and atmospheric parameters from its three instruments for the first time."
+  },
+  {
+    "question": "What is INSAT-3DS and what are its main objectives?",
+    "answer": "INSAT-3DS is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). Its main objectives are to provide an operational, environmental, and storm warning system to protect life and property."
+  },
+  {
+    "question": "Where is the data acquisition and processing system for INSAT-3DS established?",
+    "answer": "The data acquisition and processing system for INSAT-3DS is established at Space Applications Centre, Bopal Campus, Ahmedabad, India."
+  },
+  {
+    "question": "Where are the Master Control Facilities for INSAT located?",
+    "answer": "The Master Control Facilities for INSAT are located in Hassan and Bhopal."
+  },
+  {
+    "question": "What is Scatsat-1 and when was it launched?",
+    "answer": "Scatsat-1 is a satellite that was launched on September 26, 2016. It carries the Ku-band Pencil Beam scatterometer (SCAT) payload developed by SAC-ISRO."
+  },
+  {
+    "question": "From where was Scatsat-1 launched?",
+    "answer": "Scatsat-1 was launched from Satish Dhawan Space Centre, Sriharikota."
+  },
+  {
+    "question": "Who maintains the website for information about Scatsat-1?",
+    "answer": "The website for information about Scatsat-1 is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who are Neerja Sharma and Kaushik Gopalan?",
+    "answer": "Neerja Sharma and Kaushik Gopalan are professionals, likely working at the Space Applications Centre (SAC) of the Indian Space Research Organisation (ISRO). They hold titles such as GRD/AOSG/EPSA and SAC(ISRO), and their contact details have been provided."
+  },
+  {
+    "question": "What is the ownership and maintenance status of this website?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation (ISRO), which is a government organization in India."
+  },
+  {
+    "question": "When was the last update on this website and who served it?",
+    "answer": "The last update on the website was on 06 Jul, 2025, and it was served by Web-Srv-Pri."
+  },
+  {
+    "question": "Who owns and maintains the website you're currently on?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "When was the content of this website last reviewed and updated?",
+    "answer": "The content of this website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the web pages for this website?",
+    "answer": "The web pages for this website are served by Web-Srv-Pri."
+  },
+  {
+    "question": "Who is Dr. Prashant Kumar and where does he work?",
+    "answer": "Dr. Prashant Kumar works at the Space Applications Centre, Indian Space Research Organisation (ISRO) in Ahmedabad, India."
+  },
+  {
+    "question": "What is the purpose of the website owned by MOSDAC, Space Applications Centre, ISRO?",
+    "answer": "The website owned and maintained by MOSDAC, Space Applications Centre, ISRO serves to provide information about their activities."
+  },
+  {
+    "question": "How can I contact Dr. Prashant Kumar at the Space Applications Centre, ISRO?",
+    "answer": "You can contact Dr. Prashant Kumar via email at prashant22@sac.isro.gov.in."
+  },
+  {
+    "question": "What is the main content of this webpage?",
+    "answer": "The main content of this webpage is about CERES edition-2 cloud property retrievals using TRMM VIRS and Terra and Aqua MODIS data, as presented in the IEEE Transactions on Geoscience and Remote Sensing. The document is titled 'CERES edition-2 cloud property retrievals using TRMM VIRS and Terra and Aqua MODIS data - Part I: Algorithms'."
+  },
+  {
+    "question": "Who are the authors of the document?",
+    "answer": "The authors of the document are Patrick Minnis, Szedung Sun-Mack, David Young, Patrick Heck, Donald Garber, Yan Chen, Douglas A Spangenberg, Robert Arduini, Qing Trepte, William Smith Sr, J Ayers, Sharon Gibson, Walter F Miller, Gang Hong, Venkatesan Chakrapani, Yoshihide Takano, Kuo-Nan Liou, Yu Xie, Ping Yang."
+  },
+  {
+    "question": "Where is the website hosted and maintained?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What are the titles of the three reports published by Sambit Kumar Panda, Bipasha Paul Shukla, and Prashant Kumar?",
+    "answer": "1. Clutter Mitigation and 3D volumetric gridding of TERLS DWR Reflectivity Data (V1.0), SAC Report, SAC/EPSA/AOSG/SR/19/2018\n2. 2D-Multipass velocity dealiasing of TERLS DWR Data for cyclone Okchi (V1.0), SAC Report, SAC/EPSA/AOSG/SR/09/2018\n3. Study of Tropical cyclone Okchi using TERLS DWR, SAC Report, SAC/EPSA/TDP/SR/09/2018"
+  },
+  {
+    "question": "Who is the co-author of the paper 'On the use of dual-polarized c-band radar for operational rainfall retrieval in mountainous areas' published in J. Appl. Meteor. in 2012?",
+    "answer": "Gianfranco Vulpiani, and Coauthors"
+  },
+  {
+    "question": "Where can I find the paper 'Ground clutter characterization and elimination in mountainous terrain' by Marco Gabella and Riccardo Notarpietro from 2002?",
+    "answer": "The URL provided is: http://porto.polito.it/1411995/"
+  },
+  {
+    "question": "Who owns and maintains the website you're currently on?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "When was the content on this website last reviewed and updated?",
+    "answer": "The content on this website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the web pages for this website?",
+    "answer": "The web pages for this website are served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "What is the main content of the provided text?",
+    "answer": "The main content of the provided text discusses various websites from which data can be obtained for studying Earth's oceans and atmosphere. The websites mentioned are ENVISAT, AVISO (Jason-2), and SARAL/AltiKa. The data from SARAL/AltiKa is obtained from MOSDAC website."
+  },
+  {
+    "question": "Where can I find data related to Jason-2 from?",
+    "answer": "You can find data related to Jason-2 on the AVISO website (http://www.avisooceanobs.com)."
+  },
+  {
+    "question": "Where does one obtain SARAL/AltiKa data?",
+    "answer": "SARAL/AltiKa data can be obtained from MOSDAC website (http://www.mosdac.gov.in)."
+  },
+  {
+    "question": "Who owns and maintains the Skip to main Content Website?",
+    "answer": "The Skip to main Content website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "When was the last review and update of the Skip to main Content Website?",
+    "answer": "The last review and update of the Skip to main Content website was on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the Skip to main Content Website?",
+    "answer": "The Skip to main Content website is served by Web-Srv-Pri."
+  },
+  {
+    "question": "What is the main content of this website?",
+    "answer": "The main content of this website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who serves this website?",
+    "answer": "This website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "When was the content on this website last reviewed and updated?",
+    "answer": "The content on this website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who is Jai Kumar and what is his affiliation?",
+    "answer": "Jai Kumar is an employee of the Indian Space Research Organisation (ISRO), specifically at the Space Applications Centre in Ahmedabad, India. His position is POD/AOSG/EPSA."
+  },
+  {
+    "question": "What organization owns and maintains this website?",
+    "answer": "The website is owned and maintained by MOSDAC (Ministry of Earth Sciences Data Centre and Services) at the Space Applications Centre, Indian Space Research Organisation, which is a government entity of India."
+  },
+  {
+    "question": "When was the last update on this website?",
+    "answer": "The last update on this website was on 06 Jul, 2025."
+  },
+  {
+    "question": "Who owns and maintains the website displayed?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the content on this website last reviewed and updated?",
+    "answer": "The content on this website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the web pages of this website?",
+    "answer": "The web pages of this website are served by Web-Srv-Pri."
+  },
+  {
+    "question": "What is the method used to reconstruct ocean interior density and velocity anomalies in the Bay of Bengal?",
+    "answer": "The 'interior + surface Quasigeostrophic' (isQG) method has been used to reconstruct these anomalies."
+  },
+  {
+    "question": "What data is used as input for this method?",
+    "answer": "The inputs are sea surface height anomaly (AVISO), sea surface density anomaly which is calculated using GHRSST sea surface temperature and SMAP sea surface salinity, and the Brunt-Vaisala frequency, calculated from in-situ analysis system (ISAS) climatological data."
+  },
+  {
+    "question": "How does the researcher validate the retrieved density using ARGO data?",
+    "answer": "The validation of retrieved density has been performed using ARGO data, which reveals that isQG is more promising when the stratification is weak."
+  },
+  {
+    "question": "Who owns and maintains the website you're currently on?",
+    "answer": "The website is owned and maintained by MOSDAC (Mission Operations Sustainment Division and Communication) of Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "When was the last update on this website?",
+    "answer": "The last review and update on this website was on 06 Jul, 2025."
+  },
+  {
+    "question": "Who is serving the web server for this website?",
+    "answer": "The web server for this website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "What is the main Content Data Access References website?",
+    "answer": "The main Content Data Access References website is Skip to main Content Data Access References, which is owned and maintained by MOSDAC (Materials and Structures Directorate, Aircraft & Space Vehicles Division), Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who updates the information on this website?",
+    "answer": "The information on Skip to main Content Data Access References is last reviewed and updated by MOSDAC (Materials and Structures Directorate, Aircraft & Space Vehicles Division), Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "What version of this website is currently being served?",
+    "answer": "The current version of Skip to main Content Data Access References that is being served is Ver 3.0 as of the last update on 06 Jul, 2025."
+  },
+  {
+    "question": "What is the website about?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who serves the content on this website?",
+    "answer": "The content on this website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "When was the main content of the website last reviewed and updated?",
+    "answer": "The main content of the website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "What is the main function of the content provided?",
+    "answer": "The main function of the content provided is to provide information about using RSS technology for the dissemination of satellite images and data products from SCATSAT-1 and other Indian satellites like INSAT3D, INSAT3DR. Users can subscribe to these feeds automatically and get notified when new data sets are available."
+  },
+  {
+    "question": "How can I access the satellite feeds mentioned in the content?",
+    "answer": "You can access the satellite feeds by using the links provided: SCATSAT-1 Feed: https://mosdac.gov.in/isrocast.xml, INSAT3D-Imager Feed: https://mosdac.gov.in/3dimager.xml, INSAT3D-Sounder Feed: https://mosdac.gov.in/3dsounder.xml, INSAT3DR-Imager Feed: https://mosdac.gov.in/3drimager.xml, INSAT3DR-Sounder Feed: https://mosdac.gov.in/3drsounder.xml."
+  },
+  {
+    "question": "What kind of enhanced features are planned for the customized client?",
+    "answer": "Enhanced features specifically for satellite data that are planned in the customized client include automated download, analysis, and visualization of data."
+  },
+  {
+    "question": "Who owns and maintains the content on the website you're referring to?",
+    "answer": "The website is owned and maintained by MOSDAC, which stands for Mission Operations Spacecraft Dynamics and Control, a department under Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last update on this website?",
+    "answer": "The last reviewed and updated date for the content on the website you're referring to is 06 Jul, 2025."
+  },
+  {
+    "question": "Who is serving the web pages from the server?",
+    "answer": "The web pages are being served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "Who owns and maintains the main content website?",
+    "answer": "The main content website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last review and update of the main content website?",
+    "answer": "The last reviewed and updated date for the main content website is 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the main content website?",
+    "answer": "The main content website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "What is the main content website about?",
+    "answer": "The main content website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who serves this website?",
+    "answer": "This website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "When was the last update on this website?",
+    "answer": "The last review and update of this website was on 06 Jul, 2025."
+  },
+  {
+    "question": "Who owns and maintains the main content website?",
+    "answer": "The main content website is owned and maintained by MOSDAC (Mission Operations Spacecraft Centre), a division of Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last review and update on the main content website?",
+    "answer": "The last review and update on the main content website were done on 06 Jul, 2025."
+  },
+  {
+    "question": "Who is serving the main content website?",
+    "answer": "The main content website is being served by Web-Srv-Pri."
+  },
+  {
+    "question": "Who owns and maintains the Skip to main Content Website?",
+    "answer": "The Skip to main Content Website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last review and update of the Skip to main Content Website?",
+    "answer": "The Skip to main Content Website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the content of the Skip to main Content Website?",
+    "answer": "The content of the Skip to main Content Website is served by Web-Srv-Pri."
+  },
+  {
+    "question": "What is the main content website about?",
+    "answer": "The main content website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who serves the website?",
+    "answer": "The website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "When was the last update on the website?",
+    "answer": "The last review and update on the website was on 06 Jul, 2025."
+  },
+  {
+    "question": "What is the main content of this page?",
+    "answer": "The main content of this page is about IDV Plugin for INSAT-3D, data products from Resourcesat-2 AWiFS (SACRS2), and tools like the Megha Tropiques batch mode HDF5 to Binary/ASCII converter, Megha Tropiques HDF Viewer, HDF5 TO ASCII converter for Kalpana1-VHRR PR products, and HDF5 TO ASCII converter for Kalpana1-VHRR DP products."
+  },
+  {
+    "question": "Where can I find the Megha Tropiques batch mode HDF5 to Binary/ASCII converter and Viewer?",
+    "answer": "The Megha Tropiques batch mode HDF5 to Binary/ASCII converter and Viewer are available on the website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the current version and last update date for this page's content?",
+    "answer": "The current version of the content on this page is Ver 3.0, and it was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "Who is responsible for maintaining the Skip to main Content Website?",
+    "answer": "The Skip to main Content Website is owned and maintained by MOSDAC (Mission Operations Sustaining Directorate & Applications Centre), which is a part of Space Applications Centre, Indian Space Research Organisation, under the Govt. of INDIA."
+  },
+  {
+    "question": "When was the last update on the Skip to main Content Website?",
+    "answer": "The last review and update on the Skip to main Content Website was done on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the Skip to main Content Website?",
+    "answer": "The Skip to main Content Website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "How can I change the text size on this portal?",
+    "answer": "There are icons available at the top of each page to increase, decrease, or set a default text size."
+  },
+  {
+    "question": "Is this portal accessible for users with visual impairments?",
+    "answer": "Yes, our visitors with visual impairments can access the Portal using Assistive Technologies such as screen readers like JAWS, NVDA, SAFA, Supernova, and Window-Eyes."
+  },
+  {
+    "question": "Who owns and maintains this portal?",
+    "answer": "The portal is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What kind of weather forecast does the content provide for the next 3 hours?",
+    "answer": "The content provides a 3-hourly Weather forecast."
+  },
+  {
+    "question": "Is there any prediction about cold waves in India mentioned in this content? If yes, what model is used?",
+    "answer": "Yes, the content mentions Cold wave prediction over India using WRF Model."
+  },
+  {
+    "question": "What information does the content provide about the monsoon prediction for 2024?",
+    "answer": "The content mentions Monsoon Prediction 2024."
+  },
+  {
+    "question": "What is the content about?",
+    "answer": "The content is about a 3-hourly weather forecast for various regions, including India and the Indian Ocean. It also includes predictions for cyclones, heavy rain events, heat waves, sea state, solar and wind forecasts, cloud burst nowcasts, satellite-based nowcasts, alerts for specific regions, solar energy, air quality, soil wetness index, altimeter data, ocean subsurface fields, RIP current forecast, eddy currents, and more. It is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What kind of weather predictions are available for the next 3 days?",
+    "answer": "The forecast provides data for heat wave prediction over India (WRF Model), heavy rain (>5mm/hr) forecast using NWP model, 3 Days Solar and Wind Forecast for every 15 minutes, and Cloud Burst Nowcast for 6 hours over Western Himalayan region."
+  },
+  {
+    "question": "Where can I find the alerts for Indian States and South East Asian Countries?",
+    "answer": "Alerts for Indian States and South East Asian Countries can be found in the content. The specific alerts are not mentioned, but they are listed among other information provided."
+  },
+  {
+    "question": "What kind of weather forecast is provided by the website?",
+    "answer": "The website provides a 3-hourly weather forecast, cold wave prediction over India (WRF Model), based cyclone observation and real-time prediction over the Indian Ocean, heat wave prediction over India (WRF Model), heavy rain (>5mm/hr) forecast using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast in terms of wave height, wave period etc., 3 days solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over Western Himalayan region, satellite based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States, alerts for South East Asian Countries, solar energy, rainfall, air quality, soil wetness index, cyclone observation and real-time prediction over the Indian Ocean, altimeter LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, riptide current forecast for all-India beaches, ocean state forecast, eddy currents. The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the source of the data for the forecast provided on this website?",
+    "answer": "The data for the forecast provided on this website is served by 'Web-Srv-Pri'."
+  },
+  {
+    "question": "How can I access real-time cyclone observations and predictions over the Indian Ocean on this website?",
+    "answer": "Real-time cyclone observations and predictions over the Indian Ocean can be accessed through Satellite-based observation and real-time prediction over IO provided on this website."
+  },
+  {
+    "question": "What is the main content of this article?",
+    "answer": "The main content is a 3-hourly weather forecast, including cold wave prediction over India, cyclone observation and real-time prediction over the Indian Ocean, heatwave prediction for India, heavy rain forecast using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast, solar and wind forecast, cloud burst nowcast, satellite-based nowcast for heavy rain events, alerts for Indian states, alerts for South East Asian countries, solar energy, rainfall, air quality, soil wetness index, cyclone observation and real-time prediction over the Indian Ocean, altimeter LCS-CORES, stretching directions, ocean subsurface fields, rip current forecast for all-India beaches, ocean state forecast, eddy currents, and information on the website owner."
+  },
+  {
+    "question": "Where can I find the solar energy, rainfall, air quality, and soil wetness index data?",
+    "answer": "The solar energy, rainfall, air quality, and soil wetness index data can be found in the article's main content. It is provided as part of the interactive visualization feature called 'LIVE Alerts for Indian States' and alerts for South East Asian Countries."
+  },
+  {
+    "question": "Who maintains the website mentioned in this article?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the main content of this webpage?",
+    "answer": "The main content of this webpage is a 3-hourly weather forecast, cold wave prediction over India (using WRF Model), based cyclone observation and real-time prediction over the Indian Ocean, heat wave prediction over India (also using WRF Model), heavy rain (>5mm/hr) forecast using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast, 3 days solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over the Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States, alerts for South East Asian Countries, solar energy, rainfall, air quality, soil wetness index, sat-based cyclone observation and real-time prediction over the Indian Ocean, altimeter LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, rip current forecast for all-India beaches, ocean state forecast eddy currents, and a website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the purpose of the 'Cloud Burst Nowcast for 6 hours over Western Himalayan region'?",
+    "answer": "The 'Cloud Burst Nowcast for 6 hours over Western Himalayan region' is a feature on this webpage that provides predictions about cloud burst events in the Western Himalayas for the next six hours."
+  },
+  {
+    "question": "Who maintains and owns the website discussed in this content?",
+    "answer": "The website discussed in this content is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Who owns and maintains the main content website?",
+    "answer": "The main content website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last review and update of the main content website?",
+    "answer": "The last reviewed and updated date for the main content website is 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the main content website?",
+    "answer": "The main content website is served by Web-Srv-Pri."
+  },
+  {
+    "question": "What is the main content of this webpage?",
+    "answer": "The main content of this webpage is a 3-hourly weather forecast, including cold wave prediction over India (using WRF Model), cyclone observation and real-time prediction over the Indian Ocean, heat wave prediction over India (using WRF Model), heavy rain forecast (using NWP model), lightning forecast, monsoon prediction for 2024, sea state forecast, solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over the Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States and South East Asian countries, solar energy forecast, rainfall prediction, air quality, soil wetness index, cyclone observation and real-time prediction over the Indian Ocean using ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, rip current forecast for all-India beaches, ocean state forecast, eddy currents, and a brief about the website ownership and maintenance."
+  },
+  {
+    "question": "What is the format of the data displayed on this webpage?",
+    "answer": "The data displayed on this webpage is in JSON format."
+  },
+  {
+    "question": "Who maintains and owns this website?",
+    "answer": "This website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Government of INDIA."
+  },
+  {
+    "question": "What is the main content of this article?",
+    "answer": "The main content is about a 3-hourly weather forecast, including cold wave prediction over India using WRF Model, Cyclone observation and real-time prediction over IO, heat wave prediction over India using WRF Model, heavy rain forecast for more than 5mm/hr using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast, 3 days solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, alerts for Indian States and South East Asian Countries, solar energy, rainfall, air quality, soil wetness index, cyclone observation and real-time prediction over IO, altimeter LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, rip current forecast for all-India beaches, ocean state forecast, eddy currents, website owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the format of the data provided in this article?",
+    "answer": "The data provided in this article is in JSON format."
+  },
+  {
+    "question": "Who is the owner and maintainer of the website mentioned in this article?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the content about?",
+    "answer": "The content provides a 3-hourly weather forecast, cold wave prediction over India (using WRF Model), cyclone observation and real-time prediction over the Indian Ocean, heatwave prediction over India (also using WRF Model), heavy rain forecast, lightning forecast, monsoon prediction for 2024, sea state forecast, solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, interactive visualization of the Earth (LIVE), alerts for Indian States and South East Asian countries, solar energy, rainfall, air quality, soil wetness index, cyclone observation and real-time prediction over Indian Ocean, ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS, ocean subsurface fields, RIP current forecast for all-India beaches, ocean state forecast, eddy currents, and is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation."
+  },
+  {
+    "question": "Where can I find the 3-hourly weather forecast?",
+    "answer": "The 3-hourly weather forecast can be found in the main content provided."
+  },
+  {
+    "question": "What is the link to view the real-time satellite images and alerts for Indian States and South East Asian Countries?",
+    "answer": "The live satellite images and alerts can be accessed through the interactive visualization of the Earth (LIVE) provided in the content."
+  },
+  {
+    "question": "What is the current 3-hourly weather forecast for India?",
+    "answer": "The current 3-hourly weather forecast for India is based on WRF Model and it provides information about Cold wave prediction, Heat Wave Prediction, and Heavy Rain (>5mm/hr) forecast."
+  },
+  {
+    "question": "Can I get a solar and wind forecast for the next 3 days?",
+    "answer": "Yes, you can find a 3 Days Solar and Wind Forecast for every 15 minutes on this platform."
+  },
+  {
+    "question": "Where can I find alerts for Indian States and South East Asian countries related to solar energy, rainfall, air quality, soil wetness index, and cyclones?",
+    "answer": "Alerts for Indian States and South East Asian countries related to solar energy, rainfall, air quality, soil wetness index, and cyclones are available on this platform. You can also find satellite-based nowcasts for Heavy rain events for 6 hours."
+  },
+  {
+    "question": "What kind of weather forecast is provided on this website?",
+    "answer": "The website provides a 3-hourly weather forecast, cold wave prediction over India (using WRF Model), based Cyclone observation and real-time prediction over the Indian Ocean, heatwave prediction over India (also using WRF Model), heavy rain forecast using NWP model, lightning forecast, monsoon prediction for 2024, sea state forecast in terms of wave height, wave period etc., 3 days solar and wind forecast for every 15 minutes, cloud burst nowcast for 6 hours over the Western Himalayan region, satellite-based nowcast for heavy rain events for 6 hours, AWS Time Series Heavy Rain Events, alerts for Indian States, alerts for South East Asian Countries, solar energy rainfall air quality, soil wetness index, cyclone observation and real-time prediction over the Indian Ocean (IO), altimeter LCS-CORES and stretching directions, ocean subsurface fields, rip current forecast for all India beaches, ocean state forecast eddy currents, and a live visualization of the Earth."
+  },
+  {
+    "question": "How can I access real-time cyclone observations over the Indian Ocean on this website?",
+    "answer": "On this website, you can find real-time cyclone observation and prediction over the Indian Ocean under 'Sat. Based Cyclone Obser. and Realtime Pred. over IO.'"
+  },
+  {
+    "question": "Where can I find alerts for heavy rain events in India on this website?",
+    "answer": "On this website, you can find alerts for Indian States related to heavy rain events under 'AWS Time Series Heavy Rain Events'."
+  },
+  {
+    "question": "What is SCORPIO and what purpose does it serve?",
+    "answer": "SCORPIO is a WebGIS-based Cyclone Information System. It provides accurate and timely advance predictions of tropical cyclones in the North Indian Ocean, which are crucial for disseminating warnings and preparedness."
+  },
+  {
+    "question": "Who develops and maintains SCORPIO?",
+    "answer": "SCORPIO is developed and maintained by DWD/SAC/ISRO."
+  },
+  {
+    "question": "Where are the forecasts and satellite-based cyclone information disseminated through SCORPIO?",
+    "answer": "The forecasts like cyclogenesis, track, intensity, landfall of cyclones, ship avoidance region, storm surge, coastal inundation etc. and satellite-based cyclone information are disseminated through the web-portal SCORPIO."
+  },
+  {
+    "question": "Who developed and maintains the Community Atmosphere Model (CAM) mentioned in this text?",
+    "answer": "The Community Atmosphere Model (CAM) was developed and maintained by DWD/SAC/ISRO."
+  },
+  {
+    "question": "Where can I find more information about the CAM model mentioned in this text?",
+    "answer": "You can find more detail about the CAM_Model_Overview.pdf"
+  },
+  {
+    "question": "What organization provided the global initial condition data for the experimental predictions in this text?",
+    "answer": "The global initial condition data was provided by NCAR (National Center for Atmospheric Research)."
+  },
+  {
+    "question": "What is the Space Applications Centre (SAC) heavy rainfall alert system used for?",
+    "answer": "The Space Applications Centre (SAC) heavy rainfall alert system is used to predict heavy rainfall events in real-time. These alerts are available on the MOSDAC web portal (www.mosdac.gov.in)."
+  },
+  {
+    "question": "Where can I find Cloudburst potential alerts for the Western Himalayan region?",
+    "answer": "Cloudburst potential alerts for the Western Himalayan region are provided regularly on MOSDAC (www.mosdac.gov.in)."
+  },
+  {
+    "question": "How often are heavy rainfall and Cloudburst alerts updated on the MOSDAC portal?",
+    "answer": "Heavy rainfall and Cloudburst alerts on the MOSDAC portal are updated every half hour at every 0.1x0.1-degree grid."
+  },
+  {
+    "question": "What is the Space Applications Centre (SAC) heavy rainfall alert system and where can I access it?",
+    "answer": "The Space Applications Centre (SAC) has developed a satellite-based heavy rainfall alert system, available in real-time over the MOSDAC web portal (www.mosdac.gov.in)."
+  },
+  {
+    "question": "What additional alerts does SAC provide on the MOSDAC web portal?",
+    "answer": "Besides heavy rainfall alerts, Cloudburst potential alerts for the Western Himalayan region are also provided regularly on MOSDAC using the in-house model Nowcasting of ExTreme orographic RAinfall events (NETRA)."
+  },
+  {
+    "question": "How frequently are heavy rainfall and Cloudburst alerts updated on the MOSDAC web portal?",
+    "answer": "Heavy rainfall and Cloudburst alerts for the Western Himalayan region are updated every half hour at every 0.1x0.1-degree grid."
+  },
+  {
+    "question": "What is the source of the data used in this website for the high rainfall districts?",
+    "answer": "The data used for high rainfall districts in this website comes from multiple sources, including OpenStreetMap, True Marble, India Meteorological Department (Delhi), and the algorithm for INSAT 3D. For more specific details, you can refer to the credits section in the content."
+  },
+  {
+    "question": "Who is responsible for the development and maintenance of this algorithm that determines high rainfall districts?",
+    "answer": "The algorithm used to determine high rainfall districts on this website has been developed and maintained by DWD/SAC (Space Applications Centre, ISRO)."
+  },
+  {
+    "question": "Are there any specific criteria for a district to be considered as having high rainfall?",
+    "answer": "Yes, according to the content provided, a district is considered to have high rainfall if it receives more than 5mm/h (millimeters per hour) of rainfall. If it receives more than 10mm/h, it is further categorized as having very high rainfall."
+  },
+  {
+    "question": "What is MOSDAC-LIVE and what purpose does it serve?",
+    "answer": "MOSDAC-LIVE is a web-based data and information visualization and analysis system developed by MOSDAC, SAC/ISRO. It provides access to satellite data products and information derived from satellites and model forecasts in near real time."
+  },
+  {
+    "question": "Is the information on MOSDAC-LIVE fully validated?",
+    "answer": "No, the information on MOSDAC-LIVE is currently a Beta site under development. Some of the information and layers may not have been completely validated."
+  },
+  {
+    "question": "What should users keep in mind when using the data from MOSDAC-LIVE?",
+    "answer": "Users should use the information on MOSDAC-LIVE along with other reliable data sources for interpretation and derivation of weather and oceanographic events. The data is provided on a best effort basis, and while efforts are made to keep it up to date and correct, no representations or warranties about its accuracy are made."
+  },
+  {
+    "question": "What is MOSDAC-LIVE and what does it offer?",
+    "answer": "MOSDAC-LIVE is a web-enabled data and information visualization and analysis system by MOSDAC, SAC/ISRO. It provides access to satellite data products and information derived from satellite and model forecasts in near real-time."
+  },
+  {
+    "question": "Is the information on the MOSDAC-LIVE website completely validated?",
+    "answer": "No, while the MOSDAC-LIVE website is under development, some of the information and layers may not have been completely validated. Users are advised to use this information along with other reliable data sources for interpretation."
+  },
+  {
+    "question": "What is the liability if there is a loss or damage due to using the MOSDAC-LIVE website?",
+    "answer": "The MOSDAC-LIVE website provides information on a best effort basis. While every attempt is made to keep the information up-to-date and correct, no representations or warranties are given about the absolute accuracies of the data or graphics contained on the site. No liability will be taken for any loss or damage arising from the use of this website."
+  },
+  {
+    "question": "What is MOSDAC-LIVE and what purpose does it serve?",
+    "answer": "MOSDAC-LIVE is a web-based data and information visualization and analysis system provided by MOSDAC, SAC/ISRO. It offers access to satellite data products and information derived from satellite and model forecasts in near real-time. Its primary purpose is to help users monitor weather and oceanographic events."
+  },
+  {
+    "question": "Is the information on MOSDAC-LIVE completely validated?",
+    "answer": "No, the website is currently a Beta site under development. Some of the information and layers may not have been fully validated yet."
+  },
+  {
+    "question": "Can I rely solely on the data provided by MOSDAC-LIVE for interpretation and prediction of weather events?",
+    "answer": "It is recommended to use the information from this website along with other reliable data sources for interpretation and derivation of weather and oceanographic events. The website provides information on a best effort basis, and no absolute accuracy guarantees are given."
+  },
+  {
+    "question": "What is the nature of this website related to?",
+    "answer": "The website is a Beta site for providing information about weather and oceanographic events. It's currently under development, and some layers may not have been completely validated."
+  },
+  {
+    "question": "Who develops and maintains this website?",
+    "answer": "This website is developed & maintained by DWD/SAC/ISRO."
+  },
+  {
+    "question": "Where can I find the sources for the data used in this website?",
+    "answer": "The sources for the data used in this website include E.U. Copernicus Marine Service Information, Indian Space Research Organisation (ISRO), Bhuvan, NRSC, Hyderabad, OpenStreetMap, Unearthed Outdoors, LLC, and Satellite Data Layers provided by ISRO."
+  },
+  {
+    "question": "What is MOSDAC-LIVE and what does it offer?",
+    "answer": "MOSDAC-LIVE is a web-based data and information visualization and analysis system provided by MOSDAC, SAC/ISRO. It offers access to satellite data products and information derived from satellite and model forecasts in near real-time."
+  },
+  {
+    "question": "Is the data on MOSDAC-LIVE fully validated?",
+    "answer": "No, some of the information and layers on the MOSDAC-LIVE website may not have been completely validated. It is recommended to use this data along with other reliable sources for interpretation."
+  },
+  {
+    "question": "What are the potential liabilities associated with using MOSDAC-LIVE?",
+    "answer": "The information provided on MOSDAC-LIVE is given on a best effort basis, and while efforts are made to keep it up-to-date, no representations or warranties of absolute accuracy are made. Users should not hold the providers liable for any loss or damage arising from the use of this website."
+  },
+  {
+    "question": "How do I select a single location on the map?",
+    "answer": "Click on the map to choose a specific location."
+  },
+  {
+    "question": "What is the process for tracking multiple locations on the map?",
+    "answer": "Either click on the map in sequence and then submit the track, or add comma-separated Long/Lat values."
+  },
+  {
+    "question": "Who developed and maintains this ocean currents map?",
+    "answer": "The map is Developed & Maintained By: DWD/SAC/ISRO. Several organizations have contributed to the information, layers, and data used in this website, including Copernicus Marine Service Information, Indian Space Research Organisation (ISRO), NRSC Hyderabad, India Meteorological Department, Delhi, OpenStreetMap, Unearthed Outdoors, LLC, and Bhuvan."
+  },
+  {
+    "question": "Who developed and maintains the Eddy Detection and Tracking system?",
+    "answer": "The system was developed and maintained by DWD/SAC."
+  },
+  {
+    "question": "Where does the overlay data for this website come from?",
+    "answer": "The overlay data sources include NRDB, Bhuvan (from NRSC, Hyderabad), OpenStreetMap, Indian Space Research Organisation (ISRO), True Marble, India Meteorological Department in Delhi, and world coastlines."
+  },
+  {
+    "question": "Where can I find the credits for the data used on this website?",
+    "answer": "Credits are acknowledged dually to the respective sources including NRSC, Hyderabad (www.nrsc.gov.in), OpenStreetMap Contributors (www.openstreetmap.org/copyright), Indian Space Research Organisation, Unearthed Outdoors, LLC, India Meteorological Department, Delhi (www.imd.gov.in), and the provider of input altimeter currents data E.U. Copernicus Marine Service Information."
+  },
+  {
+    "question": "What is the purpose of this content?",
+    "answer": "This content appears to be a portion of code, possibly for a game or application. It seems to define some variables and functions."
+  },
+  {
+    "question": "What does 'x' represent in this content?",
+    "answer": "It is difficult to definitively say what 'x' represents without additional context. However, it appears to be a variable used within the provided code."
+  },
+  {
+    "question": "How can I use this code?",
+    "answer": "To use this code, you would typically need to integrate it into a project of your own that is compatible with the programming language in which this code was written. You would then modify and run the code according to your specific needs."
+  },
+  {
+    "question": "Who owns and maintains the website you're currently viewing?",
+    "answer": "The website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "When was the last update on this website?",
+    "answer": "The last update on this website was on 06 Jul, 2025."
+  },
+  {
+    "question": "Who serves the web pages of this site?",
+    "answer": "The web pages of this site are served by Web-Srv-Pri."
+  },
+  {
+    "question": "Who owns and maintains the ContactPage website?",
+    "answer": "The ContactPage website is owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "How can I provide detailed feedback for the ContactPage website?",
+    "answer": "Detailed feedback can be sent to the Web Information Manager/ Administrator at the ContactPage website through the provided contact page."
+  },
+  {
+    "question": "When was the ContactPage website last updated?",
+    "answer": "The ContactPage website was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "What is the Skip to main Content Space Applications Centre (SAC) and what does it deal with?",
+    "answer": "The Skip to main Content Space Applications Centre (SAC) is an ISRO Centre located at Ahmedabad, dealing with a wide variety of themes from satellite payload development, operational data reception and processing to societal applications. Specifically, SAC deals with the development, realization and qualification of communication, navigation, earth observation, and planetary payloads and related data processing and ground systems in the areas of communications, broadcasting, remote sensing, disaster monitoring/mitigation, meteorology, and oceanography."
+  },
+  {
+    "question": "What is Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) and what does it do?",
+    "answer": "Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is a data centre of the Space Applications Centre (SAC). MOSDAC has facilities for satellite data reception, processing, analysis, and dissemination. It operationally supplies earth observation data from Indian meteorology and oceanography satellites to cater to national and international research requirements."
+  },
+  {
+    "question": "Who owns and maintains the website of MOSDAC?",
+    "answer": "The website of Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) is owned and maintained by the Space Applications Centre, a part of the Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "What is the Space Applications Centre (SAC) and what are its areas of expertise?",
+    "answer": "The Space Applications Centre (SAC) is an ISRO centre located in Ahmedabad, dealing with a wide variety of themes including satellite payload development, operational data reception and processing, and societal applications. Its areas of expertise include communication, navigation, earth observation, planetary payloads, and related data processing and ground systems in the areas of communications, broadcasting, remote sensing, disaster monitoring/mitigation, and meteorology."
+  },
+  {
+    "question": "What is Meteorological and Oceanographic Satellite Data Archival Centre (MOSDAC) and what does it do?",
+    "answer": "MOSDAC is a data centre of Space Applications Centre (SAC) and has facilities for satellite data reception, processing, analysis, and dissemination. It operationally supplies earth observation data from Indian meteorology and oceanography satellites to cater to national and international research requirements."
+  },
+  {
+    "question": "How can I contact MOSDAC or get more information about it?",
+    "answer": "You can contact MOSDAC via email at oprmosdac[at]mosdac[dot]gov[dot]in or by phone at +91-79-26916207. For web-related inquiries, you can visit the website: https://www.mosdac.gov.in, which is owned and maintained by MOSDAC, Space Applications Centre, ISRO, Govt. of INDIA."
+  },
+  {
+    "question": "Can I use the content from this website for my own purposes?",
+    "answer": "Yes, you can reproduce the content from this site freely. However, it should be reproduced accurately, not used in a derogatory manner or misleading context, and the source must be prominently acknowledged."
+  },
+  {
+    "question": "Do I need permission to use specific parts of the website's content?",
+    "answer": "The permission to reproduce this material does not extend to any material explicitly identified as being copyright of a third party or materials contained in the hyperlinked sites. Authorization to reproduce such material must be obtained from the copyright holders concerned."
+  },
+  {
+    "question": "Who maintains and owns the website?",
+    "answer": "The website is owned and maintained by MOSDAC (Materials Science & Design Analysis Centre), a part of Space Applications Centre, under the Indian Space Research Organisation, Govt. of INDIA."
+  },
+  {
+    "question": "Where can I find the Data Access Guidelines for using data provided by MOSDAC, Space Applications Centre, Indian Space Research Organisation?",
+    "answer": "You can access the Data Access Guidelines in PDF format on the MOSDAC website. The English version is 323KB, and the bilingual version is 415KB. You can use PDFViewer to open these documents."
+  },
+  {
+    "question": "Who maintains the website from where the Data Access Guidelines are available?",
+    "answer": "The website is owned and maintained by MOSDORAC, Space Applications Centre, Indian Space Research Organisation, which is a government organization of India."
+  },
+  {
+    "question": "When were the current version (Ver 3.0) of the Data Access Guidelines last reviewed and updated?",
+    "answer": "The current version of the Data Access Guidelines (Ver 3.0) was last reviewed and updated on 06 Jul, 2025."
+  },
+  {
+    "question": "What is the purpose of the links in this portal?",
+    "answer": "The links in this portal have been placed for your convenience. They lead to other websites/portals, but MOSDAC is not responsible for their content or reliability."
+  },
+  {
+    "question": "Can I link my website to the information hosted on this portal?",
+    "answer": "Yes, you can link directly to the information that is hosted on this portal. No prior permission is required for the same, but it would be appreciated if you inform MOSDK about any links provided."
+  },
+  {
+    "question": "Why can't MOSDAC guarantee that all links will work at all times?",
+    "answer": "MOSDAC cannot guarantee that these links will work all the time because they do not have control over the availability of linked pages. The pages may be updated, removed, or become unavailable due to various reasons."
+  },
+  {
+    "question": "What information does this website gather about me and how is it used?",
+    "answer": "This website gathers information about you, but they assure that your personal information will be kept strictly confidential. They do not rent, sell or share your personal information with any other third party."
+  },
+  {
+    "question": "Under what circumstances might my personal information be disclosed to a third party?",
+    "answer": "Your personal information may be disclosed to a third party only in specific situations such as helping investigate illegal activities, suspected fraud, potential threats to safety, or compliance with legal requirements like subpoenas, court orders, or requests from legal authorities."
+  },
+  {
+    "question": "How can I contact the website administrators if I have questions about their Privacy Policy?",
+    "answer": "You can email your questions to admin@mosdac.gov.in."
+  },
+  {
+    "question": "What is the archival policy for content on this website?",
+    "answer": "The content on this website follows a policy where some content components are not displayed after their validity date. Content that is no longer relevant is archived and will not be published further."
+  },
+  {
+    "question": "Who contributes, approves, and moderates the content on this website?",
+    "answer": "Content is contributed by an authorized Content Manager, approved and moderated before being published. 'MOSDAC' has prescribed appropriate Moderators & Approvers for each of the content elements."
+  },
+  {
+    "question": "How often is the content on this website reviewed?",
+    "answer": "The content is reviewed at least two weeks prior to its validity date. If required, it can be revalidated and the validity date modified."
+  },
+  {
+    "question": "What is the agency responsible for designing, developing, and maintaining this website?",
+    "answer": "This website is designed, developed, and maintained by Space Applications Centre, Indian Space Research Organisation, Department of Space, Government of India."
+  },
+  {
+    "question": "Can the information on this website be used for legal purposes?",
+    "answer": "Though all efforts have been made to ensure the accuracy and currency of the content of this website, it should not be construed as a statement of law or used for any legal purposes."
+  },
+  {
+    "question": "Are there any liability issues if I use the data from linked websites that are not part of MOSDAC domain?",
+    "answer": "Under no circumstances will the MOSDAC be liable for any expense, loss or damage arising from use, or loss or use, of data on these external links."
+  },
+  {
+    "question": "How can I verify my email address for MOSDAC?",
+    "answer": "You need to copy the Email verification Hyperlink sent on your registered email id and paste it in a new browser window/tab and open the link to verify your email address."
+  },
+  {
+    "question": "What should I do if I forget my password for MOSDAC?",
+    "answer": "You need to copy the 'Reset Password Hyperlink' sent on your registered email id and paste it in a new browser window/tab and open the link to reset your password."
+  },
+  {
+    "question": "How can I order data from MOSDAC?",
+    "answer": "First, you need to be a registered user by filling up the Sing Up form available on the home page. Then, login to MOSDAC site with your credentials, select 'Satellite data order', choose the data of your interest, add it to cart, submit the request, and wait for an email about readiness of your data."
+  }
+]
