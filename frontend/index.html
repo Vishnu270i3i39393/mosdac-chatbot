@@ -6,79 +6,93 @@
   <title>MOSDAC Chatbot</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f5f5f5;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: #f0f0f0 url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Emblem_of_India.svg/2560px-Emblem_of_India.svg.png') center center no-repeat;
+      background-size: 200px;
+      background-attachment: fixed;
+      opacity: 0.95;
     }
     .chat-container {
-      background: #fff;
-      width: 400px;
-      max-height: 90vh;
+      background: rgba(255,255,255,0.95);
+      width: 90%;
+      max-width: 480px;
+      height: 80vh;
+      margin: 30px auto;
       border: 1px solid #ddd;
-      border-radius: 8px;
+      border-radius: 10px;
       display: flex;
       flex-direction: column;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
       overflow: hidden;
     }
     .chat-header {
       background: #0077b6;
       color: #fff;
-      padding: 10px;
+      padding: 15px;
       text-align: center;
+      font-size: 18px;
       font-weight: bold;
+      letter-spacing: 1px;
     }
     .chat-messages {
       flex: 1;
-      padding: 10px;
+      padding: 15px;
       overflow-y: auto;
+      background: #fafafa;
     }
     .chat-input {
       display: flex;
       border-top: 1px solid #ddd;
+      background: #f9f9f9;
     }
     .chat-input input {
       flex: 1;
       border: none;
-      padding: 10px;
-      font-size: 14px;
+      padding: 15px;
+      font-size: 15px;
+      outline: none;
     }
     .chat-input button {
       background: #0077b6;
       color: #fff;
       border: none;
-      padding: 10px 15px;
+      padding: 15px 20px;
       cursor: pointer;
+      font-size: 15px;
     }
     .message {
-      margin: 5px 0;
+      margin: 10px 0;
+      padding: 10px 15px;
+      border-radius: 20px;
       max-width: 80%;
-      padding: 8px 12px;
-      border-radius: 16px;
       word-wrap: break-word;
     }
     .message.user {
-      background: #d1e7ff;
+      background: #d0ebff;
       align-self: flex-end;
     }
     .message.bot {
-      background: #eee;
+      background: #e9ecef;
       align-self: flex-start;
     }
     .loading {
       font-style: italic;
       color: #666;
     }
+    @media (max-width: 600px) {
+      .chat-container {
+        height: 90vh;
+      }
+    }
   </style>
 </head>
 <body>
   <div class="chat-container">
-    <div class="chat-header">MOSDAC Chatbot</div>
+    <div class="chat-header">🇮🇳 MOSDAC Chatbot</div>
     <div class="chat-messages" id="chat"></div>
     <div class="chat-input">
-      <input type="text" id="user-input" placeholder="Ask me something..." />
+      <input type="text" id="user-input" placeholder="Ask me anything about MOSDAC..." />
       <button id="send-btn">Send</button>
     </div>
   </div>
@@ -100,7 +114,7 @@
       addMessage(message, "user");
       userInput.value = "";
 
-      // show a loading message
+      // show loader
       const loadingMsg = addMessage("Thinking...", "bot");
       loadingMsg.classList.add("loading");
 
@@ -117,7 +131,7 @@
         loadingMsg.textContent = data.answer;
         loadingMsg.classList.remove("loading");
       } catch (err) {
-        loadingMsg.textContent = "Error contacting server. Please try again.";
+        loadingMsg.textContent = "Error contacting server.";
         loadingMsg.classList.remove("loading");
       }
     }
